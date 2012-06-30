@@ -1,4 +1,3 @@
-require '../web.rb'
 require 'test/unit'
 require 'rack/test'
 
