@@ -1,5 +1,6 @@
 require './web.rb'
 require 'test/unit'
+require 'rack/test'
 
 set :environment, :test
 
