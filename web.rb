@@ -2,6 +2,6 @@
 require 'sinatra'
 
 get '/' do
-    "Hello, #{params[:name]}!"
+    "Hello, #{params[:name]}."
 end
 
